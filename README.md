@@ -5,6 +5,9 @@ An open source, RP2350 based MP3 player, with LiPo battery charging, USB-C, Micr
 Although this version of the project will work, I would not recommend building it, as it has a design flaw leading to high idle battery consumption. This will be fixed in a future revision.
 
 This board was designed with the manufacturing tolerances of [JLCPCB](https://jlcpcb.com/) in mind.
+
+(Incomplete) firmware [here](https://github.com/plyantix/mp3-project-software).
+
 ![PCB Schematic](img/schematic.png)
 ![PCB layout layer 1](img/layer_1.png)
 ![PCB layout layer 2](img/layer_2.png)
