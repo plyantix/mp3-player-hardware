@@ -885,7 +885,7 @@
         "uuid": "9a524c95-fd9d-46f5-8026-3b3a999c55f9"
       }
     ],
-    "used_designators": "",
+    "used_designators": "SW10,#PWR11",
     "variants": [
       {
         "name": "v0.1"
